@@ -1,0 +1,6 @@
+[user]
+	email = dvignoles@gmail.com
+	name = Daniel Vignoles
+	username = dvignoles
+[credential]
+	helper = store --file ~/.my-credentials
